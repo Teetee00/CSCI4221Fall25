@@ -1,5 +1,5 @@
 # CSCI4221
-# 🍽️ EasyEats - Product Vision Statement
+# 🍽️ EasyEatz - Product Vision Statement
 
 ## 📘 Course Information
 **Course:** Software Engineering – Project 2  
