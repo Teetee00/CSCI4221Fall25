@@ -130,7 +130,46 @@ Jordan uses EasyEats on their tablet, loving the clean, minimal interface and cl
 
 ---
 
+Progress Report
+
+Tionna (Front-End): Started designing the home and recipe pages using React Native.
+Set up navigation and layout for the app screens.
+Time spent: 2 hours
+
+KyLeigh (Back-End / Creative Design):
+Created initial design mockups and app logo.
+Organized folder structure for backend integration.
+Connected image assets (e.g., food photos) to the code.
+Time spent: 2.5 hours
+
+Kenzie (Data & Logistics):
+Collected recipe and nutrition data for app database.
+Began organizing data in JSON format for integration.
+Updated spreadsheet for ingredient tracking.
+Time spent: 3 hours
+
+
+2. Issues Discussed: Some image links not showing correctly in the app. Need to finalize color scheme and fonts for consistent UI. Still deciding on how to store user recipe preferences (local or cloud database).
+
+3. Action Items / Next Steps
+KyLeigh will finish backend setup and help style pages.
+Tionna will connect navigation between pages and work on responsiveness.
+Kenzie will clean up the data file and upload all recipes into the system.
+
+
+
+Updated PBI
+
+| PBI (Product Backlog Item)        | Status                   | Sprint  | Estimate                        | Assigned | Reviewer |
+|----------------------------------|--------------------------|----------|---------------------------------|----------|----------|
+| 1.Set up home and recipe screens | Ready for consideration  | 2 weeks  | 1 senior for 48 hrs             | Tionna   | KC       |
+| 2.Add images to assets folder    | Ready for refinement     | 1 week   | 2 juniors for 48 hrs            | KC       | Tionna   |
+| 3.Connect images to frontend     | Ready for implementation | 9 days   | 2 juniors + 1 senior for 24 hrs | KC       | Kenzie   |
+| 4.Gather recipe & nutrition data | Ready for implementation | 1 week   | 2 juniors + 1 senior for 24 hrs | Kenzie   | Tionna   |
+
+
 ## 🧾 Summary
 **EasyEats** focuses on accessibility, speed, and simplicity. It’s more than just a recipe site — it’s a cooking companion for real life. By supporting busy students, new cooks, and working parents, EasyEats helps people eat better, save time, and gain confidence in the kitchen.
+
 
 
